@@ -1,0 +1,1 @@
+# VotumPro.CampainManager
